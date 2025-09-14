@@ -1,0 +1,12 @@
+# AI Model Gallery Media Storage
+
+This directory contains uploaded images and videos for the AI Model Gallery.
+
+## File Structure
+- Images: JPG, PNG, WebP formats
+- Videos: MP4, WebM formats
+- Auto-managed by Claude via GitHub API
+
+## CDN URLs
+Files are accessible via:
+https://raw.githubusercontent.com/mafiaboyhacker/ai-model-gallery-storage/main/uploads/filename.ext
